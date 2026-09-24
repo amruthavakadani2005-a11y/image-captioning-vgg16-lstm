@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+data/
+Flickr8k_Dataset/
+
+*.keras
+*.h5
