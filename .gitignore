@@ -9,3 +9,5 @@ Flickr8k_Dataset/
 
 *.keras
 *.h5
+Flickr8k_text/
+__MACOSX/
