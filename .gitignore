@@ -6,8 +6,9 @@ __pycache__/
 
 data/
 Flickr8k_Dataset/
-
-*.keras
-*.h5
 Flickr8k_text/
 __MACOSX/
+
+features.pkl
+*.keras
+*.h5
