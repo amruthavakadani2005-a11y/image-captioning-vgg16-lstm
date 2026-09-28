@@ -16,10 +16,12 @@ Input Image
      ↓
 Pretrained VGG16 CNN
      ↓
-Image Feature Extraction
+4096-D Image Feature Vector
      ↓
-Feature Vector
+Dense Layer
      ↓
 LSTM Decoder
+     ↓
+Softmax Word Prediction
      ↓
 Generated Caption
